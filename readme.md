@@ -80,16 +80,11 @@ amazon-prime-video-clone/
 
 ---
 
-## Screenshots
-
-*(Add screenshots of your landing page here to showcase your work.)*
-
----
 
 ## Credits
 
 - Inspired by [Amazon Prime Video](https://www.primevideo.com/)
-- Icons from [Font Awesome](https://fontawesome.com/) or [SVG Repo](https://www.svgrepo.com/) (if used)
+- Icons from [Font Awesome](https://fontawesome.com/) or [SVG Repo](https://www.svgrepo.com/) 
 - Images are for demonstration purposes only.
 
 ---
